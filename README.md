@@ -33,12 +33,13 @@ O usuário ao acertar o número é informado sobre o número tentativas ocorrida
 
 1. Clone este repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` no seu navegador.
-3. 🌍 Tente pelo link também: [jogo-swart-xi.vercel.app](https://jogo-swart-xi.vercel.app/ "Jodo Número Secreto")
+3. 🌍 Tente pelo link também: [jogo-swart-xi.vercel.app](https://jogo-swart-xi.vercel.app/ "Jodo Número Secreto")  (Obs.: Melhor experiência no Google Chrome)
 
 4. Divirta-se tentando adivinhar o número secreto!
 
 ## Screenshots
 
-![Tela do jogo]() *(adicionar uma captura de tela do jogo, caso necessário)*
+<img src="img/Screenshot game.JPG" alt="Jogo do número secreto">
+
 
 
